@@ -1,4 +1,4 @@
-# Predict E-Commerce Customer Churn by Machine Learning (Classication Model)
+# Predict E-Commerce Customer Churn by Machine Learning (Classification Model)
 
 Project ini sebagai bahan penilaian Capstone Purwadhika Data Science
 
