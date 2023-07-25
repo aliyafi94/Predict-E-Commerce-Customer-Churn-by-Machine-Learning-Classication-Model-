@@ -1,4 +1,6 @@
-# Modul-3-ML
+# Predict E-Commerce Customer Churn by Machine Learning (Classication Model)
+
+Project ini sebagai bahan penilaian Capstone Purwadhika Data Science
 
 # **E-Commerce Customer *churn***
 
