@@ -1,6 +1,7 @@
 # Predict E-Commerce Customer Churn by Machine Learning (Classification Model)
 
-Project ini sebagai bahan penilaian Capstone Purwadhika Data Science
+Project ini sebagai bahan penilaian Capstone Purwadhika Data Science 
+<br>Jika ada image yang tidak bisa diload, silahkan kunjungi [link ini](https://nbviewer.org/github/aliyafi94/Predict-E-Commerce-Customer-Churn-by-Machine-Learning-Classification-Model-/blob/main/Capstone_ML_Modul_3_Ali_Yafi.ipynb)
 
 # **E-Commerce Customer *churn***
 
